@@ -1,3 +1,6 @@
 [submodule "rest-architecture"]
 	path = rest-architecture
 	url = https://github.com/boanca-tudor/rest-architecture.git
+[submodule "kafka-architecture"]
+	path = kafka-architecture
+	url = git@github.com:boanca-tudor/kafka-architecture.git
