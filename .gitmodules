@@ -1,6 +1,6 @@
-[submodule "rest-architecture"]
-	path = rest-architecture
-	url = https://github.com/boanca-tudor/rest-architecture.git
-[submodule "kafka-architecture"]
-	path = kafka-architecture
-	url = git@github.com:boanca-tudor/kafka-architecture.git
+[submodule "spring-boot-architecture"]
+	path = spring-boot-architecture
+	url = git@github.com:boanca-tudor/spring-boot-architecture.git
+[submodule "quarkus-architecture"]
+	path = quarkus-architecture
+	url = git@github.com:boanca-tudor/quarkus-architecture.git
